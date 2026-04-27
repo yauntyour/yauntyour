@@ -3,7 +3,7 @@ If you have any questions or misunderstandings about my works, you can write an 
 
 My blog: https://yauntyour.github.io/
 
-#技术栈
+# 技术栈
 - C++全栈工程师
 - cuda-c++猎奇鉴赏大师
 - 0.01桶水的web人
