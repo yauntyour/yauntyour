@@ -4,7 +4,7 @@ If you have any questions or misunderstandings about my works, you can write an 
 My blog: https://yauntyour.github.io/
 
 # 技术栈
-- C++全栈工程师
+- C++全栈工程师（GL、CV、IoT、OS、HPC、S/C、DB、...大满贯玩家）
 - cuda-c++猎奇鉴赏大师
 - 0.01桶水的web人
 - 机器学习/强化学习最严厉的调教者
