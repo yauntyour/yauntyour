@@ -74,12 +74,16 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cmake,opengl,android,arduino,unity,unreal,linux,git,vscode,markdown" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,pytorch,numpy,cmake,opengl,android,arduino,unity,unreal,linux,git,vscode,markdown,obsidian" alt="tech stack" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" alt="c" />
   <img src="https://img.shields.io/badge/CUDA--C%2B%2B-76B900?logo=nvidia&logoColor=white&style=flat-square" alt="cuda" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=flat-square" alt="opengl" />
+  <img src="https://img.shields.io/badge/GLFW-000000?style=flat-square" alt="glfw" />
+  <img src="https://img.shields.io/badge/Boost.Asio-0F4C81?logo=boost&logoColor=white&style=flat-square" alt="asio" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" alt="pytorch" />
   <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=flat-square" alt="stm32" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="mysql" />
   <img src="https://img.shields.io/badge/Minecraft-EA7207?logo=minecraft&logoColor=white&style=flat-square" alt="minecraft" />
