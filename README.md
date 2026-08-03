@@ -90,15 +90,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yauntyour&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&hide_border=true&rank_icon=percentile" alt="github stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yauntyour&layout=compact&theme=transparent&title_color=00d4ff&text_color=c9d1d9&hide_border=true" alt="top languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yauntyour&theme=react-dark&hide_border=true&background=0d1117&border=7b2ff7" alt="streak stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yauntyour&theme=react-dark&hide_border=true&area=true&color=00d4ff&line=7b2ff7&point=ffffff" alt="activity graph" />
 </p>
 
