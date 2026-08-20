@@ -31,46 +31,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| 项目 | 语言 | 简介 | Stars |
-|------|------|------|:-----:|
-| [**agent.cpp**](https://github.com/yauntyour/agent.cpp) | <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" /> | 微型体积，无限可能。告别臃肿的依赖，迎接极致轻量的智能体时代 | ⭐ 5 |
-| [**CXX-GPT**](https://github.com/yauntyour/CXX-GPT) | <img src="https://img.shields.io/badge/-C%2B%2B17-00599C?logo=cplusplus&logoColor=white" /> | 从零实现 GPT 语言模型，C++17 + CUDA 加速 | ⭐ 0 |
-| [**TensorN**](https://github.com/yauntyour/TensorN) | <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" /> | C++ 张量库，为高性能计算而生 | ⭐ 1 |
-| [**Exact-Linear-Attention**](https://github.com/yauntyour/Exact-Linear-Attention) | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> | Exact Linear Attention，论文复现（arXiv:2605.18848） | ⭐ 1 |
-| [**RenderEngine**](https://github.com/yauntyour/RenderEngine) | <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" /> | 原生 C++ 渲染引擎，基于 OpenGL | ⭐ 0 |
-| [**agent.cpp-tools**](https://github.com/yauntyour/agent.cpp-tools) | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> | agent 技能库：为 Agent 提供工具支持 | ⭐ 1 |
-
-### 🧩 More Works
-
-<details>
-<summary><b>🖱️ 点击展开更多项目</b></summary>
-
-**AI / 研究**
-- [ApCM-py](https://github.com/yauntyour/ApCM-py) — 基于可逆压缩与可学习预测的神经记忆存储模型
-- [LLM-research](https://github.com/yauntyour/LLM-research) — LLM 研究笔记
-- [Numcpp](https://github.com/yauntyour/Numcpp) — 原生 C++ 矩阵库
-
-**系统 / 服务**
-- [servic.cpp](https://github.com/yauntyour/servic.cpp) — std::coroutine 与 asio 的无缝衔接
-- [router](https://github.com/yauntyour/router) — 原生 C++ 路由器，Header-only
-- [MnP](https://github.com/yauntyour/MnP) — 高速异步 / 同步 Web Service
-- [appweb](https://github.com/yauntyour/appweb) — 开源执行端框架，性能极佳
-
-**图形 / 算法**
-- [MatLab-cpp](https://github.com/yauntyour/MatLab-cpp) — OpenGL 原生绘图库（GLFW）
-- [cxx_maths](https://github.com/yauntyour/cxx_maths) — C++ 算法开源集合
-
-**其他**
-- [gitbackup](https://github.com/yauntyour/gitbackup) — 基于 Git 的 Minecraft 服务器备份插件
-- [BluetoothAPP](https://github.com/yauntyour/BluetoothAPP) / [LocationAPP](https://github.com/yauntyour/LocationAPP) — Android 应用
-- [yauntyour.github.io](https://github.com/yauntyour/yauntyour.github.io) — 个人博客（Obsidian + Python + GitHub Pages）
-
-</details>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
