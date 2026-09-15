@@ -42,7 +42,6 @@
 | [**TensorN**](https://github.com/yauntyour/TensorN) | <img src="https://img.shields.io/badge/-C%2B%2B%20%2F%20CUDA-76B900?logo=nvidia&logoColor=white" /> | 原生 C++/CUDA/OpenBLAS 张量加速库：原生 CUDA 算子 + 零拷贝，比 torch 更好部署 | <img src="https://img.shields.io/github/stars/yauntyour/TensorN?style=flat-square&color=7b2ff7&label=%E2%AD%90" alt="stars" /> |
 | [**Exact-Linear-Attention**](https://github.com/yauntyour/Exact-Linear-Attention) | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> | 精确可分解核函数驱动的线性注意力，论文 [arXiv:2605.18848](https://arxiv.org/abs/2605.18848) | <img src="https://img.shields.io/github/stars/yauntyour/Exact-Linear-Attention?style=flat-square&color=7b2ff7&label=%E2%AD%90" alt="stars" /> |
 | [**cell.cpp**](https://github.com/yauntyour/cell.cpp) | <img src="https://img.shields.io/badge/-C%2B%2B26-00599C?logo=cplusplus&logoColor=white" /> | 现代 C++26 写的轻量 AI 编码智能体：接 OpenAI / Anthropic，沙箱内读写、编辑、执行代码 | <img src="https://img.shields.io/github/stars/yauntyour/cell.cpp?style=flat-square&color=7b2ff7&label=%E2%AD%90" alt="stars" /> |
-| [**codeseek**](https://github.com/yauntyour/codeseek) | <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white" /> | 专为写代码设计的开源 Code Agent：TUI + tools + skills + MCP/LSP 全流程支持 | <img src="https://img.shields.io/github/stars/yauntyour/codeseek?style=flat-square&color=7b2ff7&label=%E2%AD%90" alt="stars" /> |
 | [**CXX-GPT**](https://github.com/yauntyour/CXX-GPT) | <img src="https://img.shields.io/badge/-C%2B%2B17%20%2F%20CUDA-00599C?logo=cplusplus&logoColor=white" /> | 基于 TensorN + CUDA 算子加速的生成式预训练 Transformer（GPT）C++ 从零实现 | <img src="https://img.shields.io/github/stars/yauntyour/CXX-GPT?style=flat-square&color=7b2ff7&label=%E2%AD%90" alt="stars" /> |
 | [**RenderEngine**](https://github.com/yauntyour/RenderEngine) | <img src="https://img.shields.io/badge/-C%2B%2B%20%2F%20OpenGL-5586A4?logo=opengl&logoColor=white" /> | 原生 C++ 渲染引擎：完整 UI / 键鼠交互 + 自定义渲染管线 + 自定义光线追踪 | <img src="https://img.shields.io/github/stars/yauntyour/RenderEngine?style=flat-square&color=7b2ff7&label=%E2%AD%90" alt="stars" /> |
 
@@ -93,10 +92,6 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,ts,pytorch,cmake,opengl,android,arduino,raspberrypi,unity,unreal,linux,git,github,vscode,obsidian,markdown" alt="tech stack" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" alt="c" />
   <img src="https://img.shields.io/badge/C%2B%2B26-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="cpp26" />
   <img src="https://img.shields.io/badge/CUDA--C%2B%2B-76B900?logo=nvidia&logoColor=white&style=flat-square" alt="cuda" />
@@ -107,17 +102,8 @@
   <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=flat-square" alt="stm32" />
   <img src="https://img.shields.io/badge/EasyEDA%20Pro-1765F6?logo=easyeda&logoColor=white&style=flat-square" alt="easyeda" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="typescript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="mysql" />
-  <img src="https://img.shields.io/badge/Minecraft-EA7207?logo=minecraft&logoColor=white&style=flat-square" alt="minecraft" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yauntyour&theme=react-dark&hide_border=true&area=true&color=00d4ff&line=7b2ff7&point=ffffff" alt="activity graph" />
-</p>
 
 ---
 
