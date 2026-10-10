@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7b2ff7&height=170&section=header&text=YAUNTYOURS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h1 align="center">🧑‍🚀 Yauntyours <img src="https://komarev.com/ghpvc/?username=yauntyour&style=flat-square&color=7b2ff7" alt="profile views" /></h1>
+<h1 align="center">I'm Yauntyours</h1>
 
 <p align="center">
   <b>「凡王之血，必以剑终。」</b>
