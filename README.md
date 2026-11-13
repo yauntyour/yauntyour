@@ -51,7 +51,7 @@
 ### 📬 Contact
 
 <p align="center">
-  <a href="https://yauntyour.github.io/"><img src="https://img.shields.io/badge/Blog-yauntyour.github.io-7b2ff7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="blog" /></a>
+  <a href="https://yauntyour.cn/"><img src="https://img.shields.io/badge/Blog-yauntyour.github.io-7b2ff7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="blog" /></a>
   <a href="mailto:yauntyour@outlook.com"><img src="https://img.shields.io/badge/Email-yauntyour%40outlook.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://twitter.com/Yauntyour"><img src="https://img.shields.io/badge/%40Yauntyour-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
 </p>
